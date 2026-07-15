@@ -1,2 +1,4 @@
 title: Microservices
 description: An architectural approach where software is built as small independent services communicating via APIs.
+theme: jekyll-theme-cayman
+show_downloads: false
